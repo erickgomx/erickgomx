@@ -46,20 +46,14 @@
 <div align="center">
 
 <!-- Card de Estatísticas -->
-<img height="175em" src="https://github-readme-stats.vercel.app/api?username=erickgomx&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Estatísticas do GitHub" />
+<img height="175em" src="https://github-readme-stats-fast.vercel.app/api?username=erickgomx&show_icons=true&theme=tokyonight&hide_border=true" alt="Estatísticas do GitHub" />
 
 <!-- Card de Linguagens Mais Usadas -->
-<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erickgomx&layout=compact&theme=tokyonight&hide_border=true" alt="Top Linguagens" />
+<img height="175em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=erickgomx&layout=compact&theme=tokyonight&hide_border=true" alt="Top Linguagens" />
 
 <br />
 
 <!-- Streak de Contribuições -->
 <img height="160em" src="https://streak-stats.demolab.com?user=erickgomx&theme=tokyonight&hide_border=true" alt="Streak do GitHub" />
 
-</div>
-
----
-
-<div align="center">
-  <sub>⭐️ Perfil mantido por <a href="https://github.com/erickgomx"><b>Erick GomX</b></a></sub>
 </div>
